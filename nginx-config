@@ -1,0 +1,8 @@
+server {
+    listen 65531;
+
+    location / {
+       proxy_pass http://unix:/run/webhook-handler.sk;
+    }
+}
+
