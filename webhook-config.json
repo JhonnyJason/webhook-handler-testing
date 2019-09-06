@@ -1,0 +1,19 @@
+{
+    "secret": "sluttysecretofdork",
+    "socketPath": "/run/commander.sk",
+    "port": 65531,
+    "branchReactionMap": {
+        "test-machine1-output":"release"
+        ,"citysearch-on-socket-deploy":"release"
+        ,"program-editor-tester":"release"
+        ,"constructionpage":"master"
+        ,"aurox-citysearch-deploy":"release"
+    },
+    "commandMap": {
+        "test-machine1-output":"1\n"
+        ,"citysearch-on-socket-deploy":"2\n"
+        ,"program-editor-tester":"3\n"
+        ,"constructionpage":"4\n"
+        ,"aurox-citysearch-deploy":"5\n"
+    }
+}
