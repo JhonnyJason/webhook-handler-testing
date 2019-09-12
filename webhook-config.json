@@ -1,4 +1,5 @@
 {
+    "uri": "/webhook",
     "secret": "sluttysecretofdork",
     "socketPath": "/run/commander.sk",
     "port": 65531,
