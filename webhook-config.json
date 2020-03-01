@@ -1,7 +1,7 @@
 {
     "uri": "/webhook",
     "secret": "sluttysecretofdork",
-    "socketPath": "/run/commander.sk",
+    "socketPath": "/run/executor.sk",
     "port": 65531,
     "branchReactionMap": {
         "test-machine1-output":"release"
